@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_width">45dp</dimen>
+    <dimen name="logo_height">55dp</dimen>
+    <dimen name="margin_left_series_dp">20dp</dimen>
+    <dimen name="margin_left_flims_dp">40dp</dimen>
+    <dimen name="margin_left_list_dp">60dp</dimen>
+    <dimen name="text_size_head">16sp</dimen>
+</resources>
